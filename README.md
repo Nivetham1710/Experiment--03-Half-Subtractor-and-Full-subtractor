@@ -73,7 +73,8 @@ endmodule
 ## Truthtable
 ![image](https://user-images.githubusercontent.com/94155183/196037718-c9d007bc-0772-453d-a5d5-19c7cfe0ea50.png)
 ## RTL realization
-![image](https://user-images.githubusercontent.com/94155183/196037794-13fffd44-0df0-4050-8a48-4580c00ad43c.png)
+![image](https://user-images.githubusercontent.com/94155183/196038299-55437054-ac26-4eb7-84dd-a3a44570d68d.png)
+
 ## Timing diagram
 ![image](https://user-images.githubusercontent.com/94155183/196037803-0a484e69-de04-47eb-8d88-35e5a937e342.png)
 
